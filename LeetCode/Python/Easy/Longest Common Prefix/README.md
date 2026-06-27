@@ -1,6 +1,6 @@
 # 📝 Longest Common Prefix (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/longest-common-prefix)
+🔗 [Problem Link](https://leetcode.com/problems/longest-common-prefix/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
